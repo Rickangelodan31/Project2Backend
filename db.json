@@ -1,8 +1,8 @@
 {
-	"users": [
+	"classes": [
 		{
 			"id": 1,
-			"firstname": "Josh",
+			"firstname": "Vinotha",
 			"dog": "Ragnar",
 			"hobbies": ["Surf", "Being bad at videogames"]
 		},
@@ -13,11 +13,10 @@
 			"hobbies": ["Lord of the Rings", "DnD"]
 		}
 	],
-	"playSessions": [
+	"bookings": [
 		{
 			"id": 1,
-			"userId": 1,
-			"game": "LoL",
+			"classId": 1,
 			"playTime": 0,
 			"description": "I need to try out this one so that I can lose my life and my soul"
 		},
