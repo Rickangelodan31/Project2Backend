@@ -9,7 +9,7 @@
       "instructor": "Vinotha Arivalagan",
       "language": "English",
       "validity": "7days",
-      "timing": "10Am - 4Pm"
+      "time": "10Am - 4Pm"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "instructor": "Vinotha Arivalagan",
       "language": "English",
       "validity": "7days",
-      "timing": "10Am - 4Pm"
+      "time": "10Am - 4Pm"
     },
     {
       "id": 3,
@@ -31,18 +31,18 @@
       "instructor": "Vinotha Arivalagan",
       "language": "English",
       "validity": "7days",
-      "timing": "10Am - 4Pm"
+      "time": "10Am - 4Pm"
     },
     {
       "id": 4,
       "course": "Cookies.jpg",
-      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713254912/Cookies_fkmx5u.jpg",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/c_crop,ar_3:4/v1713254912/Cookies_fkmx5u.jpg",
       "days": 1,
       "totalcost": 60,
       "instructor": "Vinotha Arivalagan",
       "language": "English",
       "validity": "7days",
-      "timing": "10Am - 4Pm"
+      "time": "10Am - 4Pm"
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "instructor": "Vinotha Arivalagan",
       "language": "English",
       "validity": "7days",
-      "timing": "10Am - 4Pm"
+      "time": "10Am - 4Pm"
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "instructor": "Vinotha Arivalagan",
       "language": "English",
       "validity": "7days",
-      "timing": "10Am - 4Pm"
+      "time": "10Am - 4Pm"
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "instructor": "Vinotha Arivalagan",
       "language": "English",
       "validity": "7days",
-      "timing": "10Am - 4Pm"
+      "time": "10Am - 4Pm"
     },
     {
       "id": 8,
@@ -86,7 +86,7 @@
       "instructor": "Vinotha Arivalagan",
       "language": "English",
       "validity": "7days",
-      "timing": "10Am - 4Pm"
+      "time": "10Am - 4Pm"
     },
     {
       "id": 9,
@@ -97,13 +97,8 @@
       "instructor": "Vinotha Arivalagan",
       "language": "English",
       "validity": "7days",
-      "timing": "10Am - 4Pm"
+      "time": "10Am - 4Pm"
     }
   ],
-  "carts": [
-    {
-      "courses": [],
-      "id": 1
-    }
-  ]
+  "carts": []
 }
