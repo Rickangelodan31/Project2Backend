@@ -1,104 +1,109 @@
 {
-	"courses":[
+  "courses": [
     {
-        "id": 1,
-        "course": "Basic Cake Baking Workshop",
-        "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713254263/Basic_k3jmjx.png" , 
-        "days": 1,
-        "totalcost": 50,
-        "instructor": "Vinotha Arivalagan",
-        "language": "English",
-        "validity": "7days",
-        "timing": "10Am - 4Pm"
-
+      "id": 1,
+      "course": "Basic Cake Baking Workshop",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713254263/Basic_k3jmjx.png",
+      "days": 1,
+      "totalcost": 50,
+      "instructor": "Vinotha Arivalagan",
+      "language": "English",
+      "validity": "7days",
+      "timing": "10Am - 4Pm"
     },
     {
-        "id": 2,
-        "course": "Advanced Cake Baking Workshop",
-        "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713252587/AdvancedCakes_sah1vu.png" , 
-        "days": 2,
-        "totalcost": 100,
-        "instructor": "Vinotha Arivalagan",
-        "language": "English",
-        "validity": "7days",
-        "timing": "10Am - 4Pm"
+      "id": 2,
+      "course": "Advanced Cake Baking Workshop",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713252587/AdvancedCakes_sah1vu.png",
+      "days": 2,
+      "totalcost": 100,
+      "instructor": "Vinotha Arivalagan",
+      "language": "English",
+      "validity": "7days",
+      "timing": "10Am - 4Pm"
     },
     {
-        "id": 3,
-        "course": " CupCake Baking Workshop",
-        "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713254964/CupCakes_ghrggo.png", 
-        "days": 2,
-        "totalcost": 50,
-        "instructor": "Vinotha Arivalagan",
-        "language": "English",
-        "validity": "7days",
-        "timing": "10Am - 4Pm"
+      "id": 3,
+      "course": " CupCake Baking Workshop",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713254964/CupCakes_ghrggo.png",
+      "days": 2,
+      "totalcost": 50,
+      "instructor": "Vinotha Arivalagan",
+      "language": "English",
+      "validity": "7days",
+      "timing": "10Am - 4Pm"
     },
     {
-        "id": 4,
-        "course": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713254912/Cookies_fkmx5u.jpg",
-        "image": "Cookies.jpg" , 
-        "days": 1,
-        "totalcost": 60,
-        "instructor": "Vinotha Arivalagan",
-        "language": "English",
-        "validity": "7days",
-        "timing": "10Am - 4Pm"
+      "id": 4,
+      "course": "Cookies.jpg",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713254912/Cookies_fkmx5u.jpg",
+      "days": 1,
+      "totalcost": 60,
+      "instructor": "Vinotha Arivalagan",
+      "language": "English",
+      "validity": "7days",
+      "timing": "10Am - 4Pm"
     },
     {
-        "id": 5,
-        "course": "SugarlessCakes Baking Workshop",
-        "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713256568/PopSicles_peu2nr.png" , 
-        "days": 1,
-        "totalcost": 50,
-        "instructor": "Vinotha Arivalagan",
-        "language": "English",
-        "validity": "7days",
-        "timing": "10Am - 4Pm"
+      "id": 5,
+      "course": "SugarlessCakes Baking Workshop",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713256604/SugarlessCakes_f6taa7.jpg",
+      "days": 1,
+      "totalcost": 50,
+      "instructor": "Vinotha Arivalagan",
+      "language": "English",
+      "validity": "7days",
+      "timing": "10Am - 4Pm"
     },
     {
-        "id": 6,
-        "course": "Eggless Cake Baking Workshop",
-        "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713255053/EgglessCakes_jp4xbs.jpg" , 
-        "days": 2,
-        "totalcost": 100,
-        "instructor": "Vinotha Arivalagan",
-        "language": "English",
-        "validity": "7days",
-        "timing": "10Am - 4Pm"
+      "id": 6,
+      "course": "Eggless Cake Baking Workshop",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713255053/EgglessCakes_jp4xbs.jpg",
+      "days": 2,
+      "totalcost": 100,
+      "instructor": "Vinotha Arivalagan",
+      "language": "English",
+      "validity": "7days",
+      "timing": "10Am - 4Pm"
     },
     {
-        "id": 7,
-        "course": "PopSicles",
-        "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713256568/PopSicles_peu2nr.png" , 
-        "days": 2,
-        "totalcost": 100,
-        "instructor": "Vinotha Arivalagan",
-        "language": "English",
-        "validity": "7days",
-        "timing": "10Am - 4Pm"
+      "id": 7,
+      "course": "PopSicles",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713256568/PopSicles_peu2nr.png",
+      "days": 2,
+      "totalcost": 100,
+      "instructor": "Vinotha Arivalagan",
+      "language": "English",
+      "validity": "7days",
+      "timing": "10Am - 4Pm"
     },
     {
-        "id": 8,
-        "course": "Luxury Cake Fillings Masterclass",
-        "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713256614/Luxury_cyxrid.png" , 
-        "days": 2,
-        "totalcost": 120,
-        "instructor": "Vinotha Arivalagan",
-        "language": "English",
-        "validity": "7days",
-        "timing": "10Am - 4Pm"
+      "id": 8,
+      "course": "Luxury Cake Fillings Masterclass",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713256614/Luxury_cyxrid.png",
+      "days": 2,
+      "totalcost": 120,
+      "instructor": "Vinotha Arivalagan",
+      "language": "English",
+      "validity": "7days",
+      "timing": "10Am - 4Pm"
     },
     {
-        "id": 9,
-        "course": "Doll Cakes",
-        "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713255019/DollCakes_vmiofo.png" , 
-        "days": 2,
-        "totalcost": 100,
-        "instructor": "Vinotha Arivalagan",
-        "language": "English",
-        "validity": "7days",
-        "timing": "10Am - 4Pm"
+      "id": 9,
+      "course": "Doll Cakes",
+      "image": "https://res.cloudinary.com/dsivotpgq/image/upload/v1713255019/DollCakes_vmiofo.png",
+      "days": 2,
+      "totalcost": 100,
+      "instructor": "Vinotha Arivalagan",
+      "language": "English",
+      "validity": "7days",
+      "timing": "10Am - 4Pm"
     }
-]
+  ],
+  "carts": [
+    {
+      "courses": [],
+      "id": 1
+    }
+  ]
 }
